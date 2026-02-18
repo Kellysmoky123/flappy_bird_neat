@@ -19,8 +19,8 @@ A Flappy Bird clone built with Pygame that features both a **human-playable mode
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/flappy-bird-neat.git
-cd flappy-bird-neat
+git clone https://github.com/Kellysmoky123/flappy_bird_neat.git
+cd flappy_bird_neat
 
 # Create a virtual environment (recommended)
 python -m venv .venv
